@@ -1,0 +1,31 @@
+D:\CherepNick\Step\Системное программирование\examples\PV225\ProcessMonitorExample\bin\Debug\ProcessMonitorExample.exe.config
+D:\CherepNick\Step\Системное программирование\examples\PV225\ProcessMonitorExample\bin\Debug\ProcessMonitorExample.exe
+D:\CherepNick\Step\Системное программирование\examples\PV225\ProcessMonitorExample\bin\Debug\ProcessMonitorExample.pdb
+D:\CherepNick\Step\Системное программирование\examples\PV225\ProcessMonitorExample\obj\Debug\ProcessMonitorExample.csproj.AssemblyReference.cache
+D:\CherepNick\Step\Системное программирование\examples\PV225\ProcessMonitorExample\obj\Debug\ProcessMonitorExample.csproj.SuggestedBindingRedirects.cache
+D:\CherepNick\Step\Системное программирование\examples\PV225\ProcessMonitorExample\obj\Debug\MainWindow.g.cs
+D:\CherepNick\Step\Системное программирование\examples\PV225\ProcessMonitorExample\obj\Debug\App.g.cs
+D:\CherepNick\Step\Системное программирование\examples\PV225\ProcessMonitorExample\obj\Debug\ProcessMonitorExample_MarkupCompile.cache
+D:\CherepNick\Step\Системное программирование\examples\PV225\ProcessMonitorExample\obj\Debug\ProcessMonitorExample_MarkupCompile.lref
+D:\CherepNick\Step\Системное программирование\examples\PV225\ProcessMonitorExample\obj\Debug\MainWindow.baml
+D:\CherepNick\Step\Системное программирование\examples\PV225\ProcessMonitorExample\obj\Debug\ProcessMonitorExample.g.resources
+D:\CherepNick\Step\Системное программирование\examples\PV225\ProcessMonitorExample\obj\Debug\ProcessMonitorExample.Properties.Resources.resources
+D:\CherepNick\Step\Системное программирование\examples\PV225\ProcessMonitorExample\obj\Debug\ProcessMonitorExample.csproj.GenerateResource.cache
+D:\CherepNick\Step\Системное программирование\examples\PV225\ProcessMonitorExample\obj\Debug\ProcessMonitorExample.csproj.CoreCompileInputs.cache
+D:\CherepNick\Step\Системное программирование\examples\PV225\ProcessMonitorExample\obj\Debug\ProcessMonitorExample.exe
+D:\CherepNick\Step\Системное программирование\examples\PV225\ProcessMonitorExample\obj\Debug\ProcessMonitorExample.pdb
+C:\Users\Fishman_1\Documents\GitHub\shambala_01-11-2023ProcessMonitorExample\ProcessMonitorExample\bin\Debug\ProcessMonitorExample.exe.config
+C:\Users\Fishman_1\Documents\GitHub\shambala_01-11-2023ProcessMonitorExample\ProcessMonitorExample\bin\Debug\ProcessMonitorExample.exe
+C:\Users\Fishman_1\Documents\GitHub\shambala_01-11-2023ProcessMonitorExample\ProcessMonitorExample\bin\Debug\ProcessMonitorExample.pdb
+C:\Users\Fishman_1\Documents\GitHub\shambala_01-11-2023ProcessMonitorExample\ProcessMonitorExample\obj\Debug\ProcessMonitorExample.csproj.AssemblyReference.cache
+C:\Users\Fishman_1\Documents\GitHub\shambala_01-11-2023ProcessMonitorExample\ProcessMonitorExample\obj\Debug\MainWindow.g.cs
+C:\Users\Fishman_1\Documents\GitHub\shambala_01-11-2023ProcessMonitorExample\ProcessMonitorExample\obj\Debug\App.g.cs
+C:\Users\Fishman_1\Documents\GitHub\shambala_01-11-2023ProcessMonitorExample\ProcessMonitorExample\obj\Debug\ProcessMonitorExample_MarkupCompile.cache
+C:\Users\Fishman_1\Documents\GitHub\shambala_01-11-2023ProcessMonitorExample\ProcessMonitorExample\obj\Debug\ProcessMonitorExample_MarkupCompile.lref
+C:\Users\Fishman_1\Documents\GitHub\shambala_01-11-2023ProcessMonitorExample\ProcessMonitorExample\obj\Debug\MainWindow.baml
+C:\Users\Fishman_1\Documents\GitHub\shambala_01-11-2023ProcessMonitorExample\ProcessMonitorExample\obj\Debug\ProcessMonitorExample.g.resources
+C:\Users\Fishman_1\Documents\GitHub\shambala_01-11-2023ProcessMonitorExample\ProcessMonitorExample\obj\Debug\ProcessMonitorExample.Properties.Resources.resources
+C:\Users\Fishman_1\Documents\GitHub\shambala_01-11-2023ProcessMonitorExample\ProcessMonitorExample\obj\Debug\ProcessMonitorExample.csproj.GenerateResource.cache
+C:\Users\Fishman_1\Documents\GitHub\shambala_01-11-2023ProcessMonitorExample\ProcessMonitorExample\obj\Debug\ProcessMonitorExample.csproj.CoreCompileInputs.cache
+C:\Users\Fishman_1\Documents\GitHub\shambala_01-11-2023ProcessMonitorExample\ProcessMonitorExample\obj\Debug\ProcessMonitorExample.exe
+C:\Users\Fishman_1\Documents\GitHub\shambala_01-11-2023ProcessMonitorExample\ProcessMonitorExample\obj\Debug\ProcessMonitorExample.pdb
